@@ -1,0 +1,15 @@
+/Users/pablolopes/Documents/Faculdade/Programação orientada a objetos/Trabalho Manseira/findev/bin/Debug/net6.0/findev
+/Users/pablolopes/Documents/Faculdade/Programação orientada a objetos/Trabalho Manseira/findev/bin/Debug/net6.0/findev.deps.json
+/Users/pablolopes/Documents/Faculdade/Programação orientada a objetos/Trabalho Manseira/findev/bin/Debug/net6.0/findev.runtimeconfig.json
+/Users/pablolopes/Documents/Faculdade/Programação orientada a objetos/Trabalho Manseira/findev/bin/Debug/net6.0/findev.dll
+/Users/pablolopes/Documents/Faculdade/Programação orientada a objetos/Trabalho Manseira/findev/bin/Debug/net6.0/findev.pdb
+/Users/pablolopes/Documents/Faculdade/Programação orientada a objetos/Trabalho Manseira/findev/obj/Debug/net6.0/findev.csproj.AssemblyReference.cache
+/Users/pablolopes/Documents/Faculdade/Programação orientada a objetos/Trabalho Manseira/findev/obj/Debug/net6.0/findev.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pablolopes/Documents/Faculdade/Programação orientada a objetos/Trabalho Manseira/findev/obj/Debug/net6.0/findev.AssemblyInfoInputs.cache
+/Users/pablolopes/Documents/Faculdade/Programação orientada a objetos/Trabalho Manseira/findev/obj/Debug/net6.0/findev.AssemblyInfo.cs
+/Users/pablolopes/Documents/Faculdade/Programação orientada a objetos/Trabalho Manseira/findev/obj/Debug/net6.0/findev.csproj.CoreCompileInputs.cache
+/Users/pablolopes/Documents/Faculdade/Programação orientada a objetos/Trabalho Manseira/findev/obj/Debug/net6.0/findev.dll
+/Users/pablolopes/Documents/Faculdade/Programação orientada a objetos/Trabalho Manseira/findev/obj/Debug/net6.0/refint/findev.dll
+/Users/pablolopes/Documents/Faculdade/Programação orientada a objetos/Trabalho Manseira/findev/obj/Debug/net6.0/findev.pdb
+/Users/pablolopes/Documents/Faculdade/Programação orientada a objetos/Trabalho Manseira/findev/obj/Debug/net6.0/findev.genruntimeconfig.cache
+/Users/pablolopes/Documents/Faculdade/Programação orientada a objetos/Trabalho Manseira/findev/obj/Debug/net6.0/ref/findev.dll
