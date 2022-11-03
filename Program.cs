@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Interface Interface = new Interface();
+Console.ReadKey();
+Console.Clear();
